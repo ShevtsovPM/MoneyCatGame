@@ -13,7 +13,7 @@ You can control mr.Cat with mouse.<br>
 3. Run `$ python ~/MoneyCat.py`
 
 # Stack
-Pygame<br>
+Superwires with Pygame
 
 
 > Written with [StackEdit](https://stackedit.io/).
