@@ -12,4 +12,8 @@ You can control mr.Cat with mouse.<br>
 2. Install requirements
 3. Run `$ python ~/MoneyCat.py`
 
+# Stack
+Pygame<br>
+
+
 > Written with [StackEdit](https://stackedit.io/).
