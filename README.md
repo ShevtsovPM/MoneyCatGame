@@ -4,8 +4,8 @@
 This little game was a first GUI and OOP project in my life.
 You'll need collect the money and awoid the paper work.
 If work will touch mr.Cat — you'll loose. 
-You can control mr.Cat with mouse.
-![ZAPIS-EKRANA-2020-11-30-V-12.38.06.gif](https://s3.gifyu.com/images/ZAPIS-EKRANA-2020-11-30-V-12.38.06.gif)
+You can control mr.Cat with mouse.<br>
+![ZAPIS-EKRANA-2020-11-30-V-12.38.06.gif](https://i.ibb.co/hs0XfJm/2021-05-25-12-58-06.png)
 
 **Intallation:**
 1. Clone repo
